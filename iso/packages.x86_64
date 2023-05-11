@@ -80,7 +80,6 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
 openconnect
 openssh
 openvpn
@@ -94,9 +93,7 @@ pv
 python
 python-psutil
 python-systemd
-qemu-guest-agent
 refind
-#reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -138,6 +135,10 @@ openssl-1.1
 openssl
 
 #Desktop
+lxqt
+engrampa
+unzip
+unrar
 
 #systemutils
 btop
@@ -145,8 +146,8 @@ xdg-user-dirs
 packagekit-qt5
 neofetch
 keepassxc
-octopi-git
-
+vazirmatn-fonts
+hack-nerd-fonts
 
 #parchlinuxstuff
 calamares
@@ -155,3 +156,5 @@ os-prober
 paru
 parch-branding
 parch-pacman
+parch-emoji-ios
+
