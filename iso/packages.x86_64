@@ -143,7 +143,20 @@ sddm
 openbox-arc-git
 arc-gtk-theme
 papirus-icon-theme
-
+nm-tray
+firefox
+parch-firefox-config
+ttf-ms-fonts
+motrix-bin
+geany
+gvfs
+udisks2
+ntfs-3g
+android-file-transfer
+gvfs-mtp
+broadcom-wl-dkms
+base-devel
+linux-headers
 #systemutils
 btop
 xdg-user-dirs
@@ -152,6 +165,7 @@ neofetch
 keepassxc
 vazirmatn-fonts
 hack-nerd-fonts
+parch-lxqt-config
 
 #parchlinuxstuff
 calamares
