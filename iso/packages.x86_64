@@ -136,9 +136,13 @@ openssl
 
 #Desktop
 lxqt
-engrampa
+ark
 unzip
 unrar
+sddm
+openbox-arc-git
+arc-gtk-theme
+papirus-icon-theme
 
 #systemutils
 btop
